@@ -17,7 +17,7 @@ Notes App Back-End adalah aplikasi server untuk mengelola catatan menggunakan No
 ### Instalasi
 1. **Kloning Repositori**
    ```bash
-   git clone https://github.com/username/notes-app-back-end.git
+   git clone https://github.com/marcceljanara/notes-app-back-end.git
    cd notes-app-back-end
 
 2. **Instal Dependensi**
@@ -28,7 +28,7 @@ Notes App Back-End adalah aplikasi server untuk mengelola catatan menggunakan No
 - **Untuk Pengembangan**, gunakan perintah berikut untuk menjalankan server dalam mode pengembangan:
   ```bash
   npm run start-dev
- - Server akan berjalan di localhost:3000 dengan mode pengembangan (NODE_ENV=development).
+ - Server akan berjalan di localhost:5000 dengan mode pengembangan (NODE_ENV=development).
 
 - **Untuk Produksi**, gunakan perintah berikut untuk menjalankan server dalam mode produksi:
   ```bash
